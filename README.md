@@ -31,6 +31,6 @@ He can also view project status as on date.
 + Lubricating-Oils
 + Fuel
 #### 02. Hire Bill generation
-* Work Order
++ Work Order
 + Bill Generation
 
