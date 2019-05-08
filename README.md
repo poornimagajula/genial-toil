@@ -39,7 +39,6 @@ His roles are, he can do operations like add, update and delete data from Databa
 + Lubricating-Oils
 + Fuel
 
-
 |  Material Name  |      01       |      02       |      03       |      04       |      05       |      06       |      07       |
 | -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Cement           |      OPC      |      PSC      |      GGBS     |       PPC     |      RHC      |      LHC      |      QSC      |
@@ -56,3 +55,6 @@ He can also view project status as on date.
 + Work Order
 + Bill Generation
 
+# Design
+
+# Test cases
