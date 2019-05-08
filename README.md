@@ -25,12 +25,12 @@ He can also view project status as on date.
 #### 01. Raw Materials
 * Cement
 + Steel
-2 Sand
-3 Aggregate
-. Admixture
-. Lubricating-Oils
-. Fuel
++ Sand
++ Aggregate
++ Admixture
++ Lubricating-Oils
++ Fuel
 #### 02. Hire Bill generation
-a. Work Order
-b. Bill Generation
+* Work Order
++ Bill Generation
 
