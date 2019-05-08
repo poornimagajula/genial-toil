@@ -1,1 +1,2 @@
-# alt-H1 GT
+# GT
+alt-H1
