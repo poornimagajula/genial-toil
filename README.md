@@ -25,8 +25,8 @@ He can also view project status as on date.
 #### 01. Raw Materials
 * Cement
 + Steel
-. Sand
-. Aggregate
+2 Sand
+3 Aggregate
 . Admixture
 . Lubricating-Oils
 . Fuel
