@@ -1,6 +1,3 @@
-# GT - Genial Toil
-
-
 # GT
 ### (Genial Toil)
 #### A Web-Project on Material Management
@@ -26,13 +23,13 @@ He can also view project status as on date.
  
 ### Number of tables: 02
 #### 01. Raw Materials
-a. Cement
-b. Steel
-c. Sand
-d. Aggregate
-e. Admixture
-f. Lubricating-Oils
-g. Fuel
+. Cement
+. Steel
+. Sand
+. Aggregate
+. Admixture
+. Lubricating-Oils
+. Fuel
 #### 02. Hire Bill generation
 a. Work Order
 b. Bill Generation
