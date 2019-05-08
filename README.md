@@ -1,2 +1,2 @@
-# GT
-alt-H1
+# GT - Genial Toil
+
