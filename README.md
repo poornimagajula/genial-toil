@@ -30,7 +30,7 @@ He can only login and do related operations & if in case forgot password or any 
 His roles are, he can do operations like add, update and delete data from Database.
  
 ### Table 01 (raw_material_tbl)
-#### 01. Raw Materials
+#### 01. Raw Materials and it's grades
 + Cement
 + Steel
 + Sand
