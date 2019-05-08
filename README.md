@@ -3,8 +3,10 @@
 #### A Web-Project on Material Management
 
 ### Customer Name: SRA Limited
-#### Abstract
-# use cases
+# Requirements
+1. Seperate Admin Page
+2. Home Page
+# Use cases
 #### Login – Types
 01. Admin Login
 02. Employee/Supervisor Login
