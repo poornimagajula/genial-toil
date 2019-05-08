@@ -23,8 +23,8 @@ He can also view project status as on date.
  
 ### Number of tables: 02
 #### 01. Raw Materials
-. Cement
-. Steel
+* Cement
++ Steel
 . Sand
 . Aggregate
 . Admixture
