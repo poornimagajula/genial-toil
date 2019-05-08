@@ -1,16 +1,16 @@
 # GT - Genial Toil
 
 
-GT
-(Genial Toil)
-A Web-Project on Material Management
+#GT
+###(Genial Toil)
+####A Web-Project on Material Management
 
-Customer Name: SRA Limited
-Abstract
-Login – Types
-01.   Admin Login
-02.   Employee/Supervisor Login
-03.   Manager/In-charge Login
+###Customer Name: SRA Limited
+####Abstract
+####Login – Types
+01. Admin Login
+02. Employee/Supervisor Login
+03. Manager/In-charge Login
 
 Roles & Responsibilities
       	01. Admin :-( Servlet-Config)
