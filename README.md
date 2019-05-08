@@ -33,6 +33,15 @@ He can also view project status as on date.
 + Admixture
 + Lubricating-Oils
 + Fuel
+
+
+|  Material Name  |      01       |      02       |      03       |      04       |      05       |      06       |      07       |
+| -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|Cement           |      OPC      |      PSC      |      GGBS     |       PPC     |      RHC      |      LHC      |      QSC      |
+|Steel            |      6mm      |      8mm      |      10mm     |      12mm     |      14mm     |      16mm     |      18mm     |
+|Coarse Aggregate |     2.36mm    |    4.75mm     |    10.0mm     |      12.5mm   |    16.0mm     |    20.0mm     |    40.0mm     |
+|Sand             |     Coarse    |     Fine      |               |               |               |
+
 #### 02. Hire Bill generation
 + Work Order
 + Bill Generation
