@@ -28,12 +28,8 @@ If in case he forgot his id/password, need to contact Application developer.
 #### 02. Employee/Supervisor:-
 He can only login and do related operations & if in case forgot password or any queries related to sign-in, need to contact admin person.
 His roles are, he can do operations like add, update and delete data from Database.
-#### 03. Manager/In-charge:-
-Even his login id & password are created by Admin only.
-He can view inflow & outflow of data and he can’t edit any field.
-He can also view project status as on date.  
  
-### Number of tables: 02
+### Table 01 (raw_material_tbl)
 #### 01. Raw Materials
 + Cement
 + Steel
@@ -50,6 +46,11 @@ He can also view project status as on date.
 |Steel            |      6mm      |      8mm      |      10mm     |      12mm     |      14mm     |      16mm     |      18mm     |
 |Coarse Aggregate |     2.36mm    |    4.75mm     |    10.0mm     |      12.5mm   |    16.0mm     |    20.0mm     |    40.0mm     |
 |Sand             |     Coarse    |     Fine      |               |               |               |
+
+#### 03. Manager/In-charge:-
+Even his login id & password are created by Admin only.
+He can view inflow & outflow of data and he can’t edit any field.
+He can also view project status as on date.  
 
 #### 02. Hire Bill generation
 + Work Order
