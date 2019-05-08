@@ -16,6 +16,15 @@
 #### 01. Admin :-( Servlet-Config)
 We are giving authority to create Employee sign in and he can create, update and delete Employee login’s depending on respective Site In-charge instructions. And also to create Manager/Site In-Charge Sign in.
 If in case he forgot his id/password, need to contact Application developer.
+
+### Table 01 (employee_tbl)
+|   Employee ID   | Employee Name |  Designation  |    Password   |
+| -------------   |:-------------:|:-------------:|:-------------:|
+|SRA01            |ABC            |Supervisor     | ************* |
+|SRA02            |DEF            |Manager        | ************* |
+|SRA03            |GHI            |Supervisor     | ************* |
+|SRA04            |JKL            |Manager        | ************* |
+
 #### 02. Employee/Supervisor:-
 He can only login and do related operations & if in case forgot password or any queries related to sign-in, need to contact admin person.
 His roles are, he can do operations like add, update and delete data from Database.
