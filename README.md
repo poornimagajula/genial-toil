@@ -31,7 +31,8 @@
       This Use Case describes how an Admin Creats Supervisor & Manager Sign-up's.
       
  ### 2. Flow of Events
-     This use case begins, when the Admin types Employee Id, Employee Name, Designation and Password on Employee Sign-up Page.
+     This use case begins, when the Admin types Employee Id, Employee Name, Designation
+     and Password on Employee Sign-up Page.
      
  #### 2.1 Basic Flow - Sign-up    
     The System receives the Employee Input fields and takes his/her details into DataBase, and 
