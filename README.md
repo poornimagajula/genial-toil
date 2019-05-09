@@ -13,8 +13,8 @@
       This Use Case describes how a Admin sign-in in to GT-Web APP and Creat Employee(Supervisor/Manager) credentials.
       
  ### 2.Criteria
-   + The Admin Id and Password must be same as the credentails given by 'GT'.
-   + If login credentials doesn't match the above, need to contact 'GT'.
+     The Admin Id and Password must be same as the credentails given by 'GT'.
+     If login credentials doesn't match the above, need to contact 'GT'.
 
 02. Employee/Supervisor Login
 03. Manager/In-charge Login
