@@ -39,14 +39,6 @@ He can also view project status as on date.
 
  
 ### Table 01 (raw_material_tbl)
-#### Raw Materials and it's grades
-+ Cement
-+ Steel
-+ Sand
-+ Aggregate
-+ Admixture
-+ Lubricating-Oils
-+ Fuel
 
 |  Material Name  |      01       |      02       |      03       |      04       |      05       |      06       |      07       |
 | -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
