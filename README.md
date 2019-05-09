@@ -4,14 +4,14 @@
 
 ### Customer Name: SRA Limited
 # Requirements
-     1. As an Incharge-HR, I permit all the rights to Admin regarding Supervisor/Manager Login's in 'GT Web-APP' and if he has any login issues, should be handled by GT-Team.
-    2. As an Administrator, I can only provide access to our employees in 'GT Web-APP' for sign-in and if any issues regarding the same.
-    3. As a Supervisor, I can be able to update the materials inflow, consumption as on date and if any new material add-on's(Material & Grades).
+1. As an Incharge-HR, I permit all the rights to Admin regarding Supervisor/Manager Login's in 'GT Web-APP' and if he has any login         issues, should be handled by GT-Team.
+2. As an Administrator, I can only provide access to our employees in 'GT Web-APP' for sign-in and if any issues regarding the same.
+3. As a Supervisor, I can be able to update the materials inflow, consumption as on date and if any new material add-on's(Material &        Grades).
 # Use cases
-## I. Admin Login & Creating Employee Login's
+## I. Admin Login 
 
  ### 1. Brief Description
-      This Use Case describes how a Admin sign-in in to GT-Web APP and Creat Supervisor & Manager credentials.
+      This Use Case describes how a Admin sign-in in to GT-Web APP.
       
  ### 2. Flow of Events
      This use case begins, when the Admin types his/her Id and Password on Admin Login Page.
@@ -25,7 +25,22 @@
       If the id and Password is incorrect in the Basic flow Signin, the system shows Invalid 
       Credentials and takes him/her into Login page again and shows message as contact GT-Team.    
       
-  #### Creating Employee credentials
+ ## II. Creating Employee Credentials 
+
+ ### 1. Brief Description
+      This Use Case describes how an Admin Creats Supervisor & Manager Sign-up's.
+      
+ ### 2. Flow of Events
+     This use case begins, when the Admin types Employee Id, Employee Name, Designation and Password on Employee Sign-up Page.
+     
+ #### 2.1 Basic Flow - Sign-up    
+    The System receives the Employee Input fields and takes his/her details into DataBase, and 
+      takes Admin in to Success Page.
+      
+ #### 2.2 Alternative Flow - SignIn
+      User Already Exist. 
+      If the User ID is alreaady exists in the Basic flow Signup, the system shows User already exist 
+      try with another Employee details.
      
 
 02. Employee/Supervisor Login
