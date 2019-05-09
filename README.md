@@ -49,10 +49,10 @@ His roles are, he can do operations like add, update and delete data from Databa
 ### Table 03(receipt_tbl)
 
 |   Receipt no    |  Material Name  |     Grade     |     Vendor    |    in. qty    |  in. amount   |    in. date   |
-| -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|01               |      Cement   |      PSC      |      KPC      |       40T     |           |      LHC      |      QSC      |
-|02               |     Steel     |      8mm      |      JSW      |       50T     |      14mm     |      16mm     |      18mm     |
-|03               |     Sand      |      Fine     | Local Party   |      02 unit  |    16.0mm     |    20.0mm     |    40.0mm     |
+| -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|01               |      Cement   |      PSC      |      KPC      |       40T     |           |      LHC      | 
+|02               |     Steel     |      8mm      |      JSW      |       50T     |      14mm     |      16mm     | 
+|03               |     Sand      |      Fine     | Local Party   |      02 unit  |    16.0mm     |    20.0mm     | 
 |04               | Coarse Agg    |    12.0mm     |   SR Crusher  |       14 cum  |               |
 
 
