@@ -30,7 +30,7 @@ He can only login and do related operations & if in case forgot password or any 
 His roles are, he can do operations like add, update and delete data from Database.
  
 ### Table 01 (raw_material_tbl)
-#### 01. Raw Materials and it's grades
+#### Raw Materials and it's grades
 + Cement
 + Steel
 + Sand
@@ -45,6 +45,16 @@ His roles are, he can do operations like add, update and delete data from Databa
 |Steel            |      6mm      |      8mm      |      10mm     |      12mm     |      14mm     |      16mm     |      18mm     |
 |Coarse Aggregate |     2.36mm    |    4.75mm     |    10.0mm     |      12.5mm   |    16.0mm     |    20.0mm     |    40.0mm     |
 |Sand             |     Coarse    |     Fine      |               |               |               |
+
+### Table 03(receipt_tbl)
+
+|   Receipt no    |  Material Name  |     Grade     |     Vendor    |    in. qty    |  in. amount   |    in. date   |
+| -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|01               |      Cement   |      PSC      |      KPC      |       40T     |           |      LHC      |      QSC      |
+|02               |     Steel     |      8mm      |      JSW      |       50T     |      14mm     |      16mm     |      18mm     |
+|03               |     Sand      |      Fine     | Local Party   |      02 unit  |    16.0mm     |    20.0mm     |    40.0mm     |
+|04               | Coarse Agg    |    12.0mm     |   SR Crusher  |       14 cum  |               |
+
 
 #### 03. Manager/In-charge:-
 Even his login id & password are created by Admin only.
