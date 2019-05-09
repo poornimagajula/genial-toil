@@ -6,7 +6,7 @@
 # Requirements
 1. As an Incharge-HR, I permit all the rights to Admin regarding Supervisor/Manager Login's in 'GT Web-APP' and if he has any login issues, should be handled by GT-Team.
 2. As an Administrator, I can only provide access to our employees in 'GT Web-APP' for sign-in and if any issues regarding the same.
-3. As a Supervisor, I can be able to update the materials inflow, consumption as on date and if any new material add-on's.
+3. As a Supervisor, I can be able to update the materials inflow, consumption as on date and if any new material add-on's(Material & Grades).
 # Use cases
 #### Login – Types
 01. Admin Login
