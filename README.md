@@ -8,13 +8,18 @@
 2. As an Administrator, I can only provide access to our employees in 'GT Web-APP' for sign-in and if any issues regarding the same.
 3. As a Supervisor, I can be able to update the materials inflow, consumption as on date and if any new material add-on's(Material & Grades).
 # Use cases
-## Story Title: Admin Login
- ### 1.Story Content
-      This Use Case describes how a Admin sign-in in to GT-Web APP and Creat Employee(Supervisor/Manager) credentials.
+## Admin Login & Employee Sign-up
+ ### 1. Story Content
+      This Use Case describes how a Admin sign-in in to GT-Web APP and Creat Supervisor & Manager credentials.
       
- ### 2.Criteria
+ ### 2. Criteria
+ #### Admin Login Page
      The Admin Id and Password must be same as the credentails given by 'GT'.
+     
      If login credentials doesn't match the above, need to contact 'GT'.
+     
+  #### Creating Employee credentials
+     
 
 02. Employee/Supervisor Login
 03. Manager/In-charge Login
