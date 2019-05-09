@@ -18,6 +18,16 @@
 We are giving authority to create Employee sign in and he can create, update and delete Employee login’s depending on respective Site In-charge instructions. And also to create Manager/Site In-Charge Sign in.
 If in case he forgot his id/password, need to contact *Application developer*.
 
+#### 02. Employee/Supervisor:-
+He can only login and do related operations & if in case forgot password or any queries related to sign-in, need to contact admin person.
+His roles are, he can do operations like add, update and delete data from Database.
+
+#### 03. Manager/In-charge:-
+Even his login id & password are created by Admin only.
+He can view inflow & outflow of data and he can’t edit any field.
+He can also view project status as on date.  
+
+# Tables
 ### Table 01 (employee_tbl)
 |   Employee ID   | Employee Name |  Designation  |    Password   |
 | -------------   |:-------------:|:-------------:|:-------------:|
@@ -26,9 +36,7 @@ If in case he forgot his id/password, need to contact *Application developer*.
 |SRA03            |GHI            |Supervisor     | ************* |
 |SRA04            |JKL            |Manager        | ************* |
 
-#### 02. Employee/Supervisor:-
-He can only login and do related operations & if in case forgot password or any queries related to sign-in, need to contact admin person.
-His roles are, he can do operations like add, update and delete data from Database.
+
  
 ### Table 01 (raw_material_tbl)
 #### Raw Materials and it's grades
@@ -57,10 +65,6 @@ His roles are, he can do operations like add, update and delete data from Databa
 |04               | Coarse Agg    |    12.0mm     |   SR Crusher  |       14 cum  |               |
 
 
-#### 03. Manager/In-charge:-
-Even his login id & password are created by Admin only.
-He can view inflow & outflow of data and he can’t edit any field.
-He can also view project status as on date.  
 
 #### 02. Hire Bill generation
 + Work Order
