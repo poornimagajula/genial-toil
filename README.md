@@ -37,7 +37,7 @@ He can also view project status as on date.
 |SRA04            |JKL            |Manager        | ************* |
 
 
- 
+## Raw Materials
 ### Table 01 (raw_material_tbl)
 
 |  Material Name  |      01       |      02       |      03       |      04       |      05       |      06       |      07       |
@@ -50,11 +50,20 @@ He can also view project status as on date.
 |Admixture        |       ST      |      AE       |       WR      | Accelerating  |       SR      |      SP       |               |
 |Tiles            |     Marble    |    Ceramic    |    Terrazzo   |     Slate     |    Granite    |   Traventine  |  Lime Stone   |
 
+### Table 02(vendor_tbl)
+
+|      Sno        | Material Name |  Vendor Name  |  Vendor Code  |
+| -------------   |:-------------:|:-------------:|:-------------:|
+|01               |     Cement    |      ACC      |   ACCSRA01    |
+|02               |     Steel     |      JSW      |   JSWSRA01    |
+|03               |     Sand      | SRA Suppliers |   SRASAND01   |
+|04               |  Coarse Agg   |  SRA Crusher  |   SRAAGG01    |
+
 ### Table 03(receipt_tbl)
 
-|   Receipt no    |  Material Name  |     Grade     |     Vendor    |    in. qty    |  in. amount   |    in. date   |
+|   Receipt no    | Material Name |     Grade     |     Vendor    |    in. qty    |  in. amount   |    in. date   |
 | -------------   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|01               |      Cement   |      PSC      |      KPC      |       40T     |           |      LHC      | 
+|01               |      Cement   |      PSC      |      KPC      |       40T     |               |      LHC      | 
 |02               |     Steel     |      8mm      |      JSW      |       50T     |      14mm     |      16mm     | 
 |03               |     Sand      |      Fine     | Local Party   |      02 unit  |    16.0mm     |    20.0mm     | 
 |04               | Coarse Agg    |    12.0mm     |   SR Crusher  |       14 cum  |               |
