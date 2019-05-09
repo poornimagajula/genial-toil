@@ -53,7 +53,10 @@ He can also view project status as on date.
 |Cement           |      OPC      |      PSC      |      GGBS     |       PPC     |      RHC      |      LHC      |      QSC      |
 |Steel            |      6mm      |      8mm      |      10mm     |      12mm     |      14mm     |      16mm     |      18mm     |
 |Coarse Aggregate |     2.36mm    |    4.75mm     |    10.0mm     |      12.5mm   |    16.0mm     |    20.0mm     |    40.0mm     |
-|Sand             |     Coarse    |     Fine      |               |               |               |
+|Sand             |     Coarse    |     Fine      |               |               |               |               |               |
+|Bricks           |   Sun dried   |  Burnt clay   |    Fly ash    |    Concrete   |  Engineering  |  Sand Lime    |               |
+|Admixture        |       ST      |      AE       |       WR      | Accelerating  |       SR      |      SP       |               |
+|Tiles            |     Marble    |    Ceramic    |    Terrazzo   |     Slate     |    Granite    |   Traventine  |  Lime Stone   |
 
 ### Table 03(receipt_tbl)
 
