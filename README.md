@@ -15,7 +15,7 @@
 ### Roles & Responsibilities
 #### 01. Admin :-( Servlet-Config)
 We are giving authority to create Employee sign in and he can create, update and delete Employee login’s depending on respective Site In-charge instructions. And also to create Manager/Site In-Charge Sign in.
-If in case he forgot his id/password, need to contact Application developer.
+If in case he forgot his id/password, need to contact *Application developer*.
 
 ### Table 01 (employee_tbl)
 |   Employee ID   | Employee Name |  Designation  |    Password   |
